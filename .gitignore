@@ -1,0 +1,10 @@
+*.apk
+*.aab
+*.zip
+.env*
+*.jks
+*.keystore
+*.pem
+*.key
+.DS_Store
+Thumbs.db

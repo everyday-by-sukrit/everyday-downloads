@@ -1,0 +1,15 @@
+Everyday — proprietary source notice
+Copyright © 2026 Sukrit Ghosh. All rights reserved.
+
+Except for the third-party components identified below, no permission to use,
+copy, modify, distribute, sublicense or sell this project's source code,
+artwork or application is granted by this notice. Any permission must be
+provided separately by the rights holder. This is not an open-source license.
+Customer use of a paid edition requires separately published customer terms.
+
+Third-party components remain subject to their respective licenses and are not
+relicensed by this notice. Their notices and license texts are included in
+app/src/main/assets/, including Apache 2.0, ISC and SIL Open Font License 1.1
+notices. Android's SQLite engine is provided by the platform.
+
+Contact: Sukrit Ghosh — sukritr0210@gmail.com

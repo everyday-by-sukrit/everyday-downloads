@@ -1,0 +1,15 @@
+{
+  "version": "1.2.33",
+  "releaseTag": "v1.2.33",
+  "assetName": "Everyday-v1.2.33.apk",
+  "apkBytes": 84693181,
+  "apkSha256": "a7b6fed6d964ac012b87d28a1dba14cec204e104c20569941049a37590e21911",
+  "minimumAndroid": "11",
+  "minimumApi": 30,
+  "edition": "artistic native Android prototype",
+  "publisher": "Sukrit Ghosh",
+  "supportEmail": "sukritr0210@gmail.com",
+  "sourceAvailable": false,
+  "activationImplemented": false,
+  "repositoryVisibility": "private"
+}
